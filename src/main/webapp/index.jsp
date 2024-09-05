@@ -58,7 +58,7 @@
 						<th>Id</th>
 						<th>Nombre</th>
 						<th>Precio</th>
-						<th>Categoría</th>
+						<th>Categorï¿½a</th>
 						<th>Opciones</th>
 					</tr>
 				</thead>
@@ -85,5 +85,6 @@
 	PIE
 	</footer>
 patata	
+Manzana
 </body>
 </html>
