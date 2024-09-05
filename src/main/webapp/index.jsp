@@ -83,12 +83,7 @@
 	
 	<footer>
 	PIE
-	</footer>
-	
-	
-	
-	
-	
-	
+	</footer>	
+Manzana
 </body>
 </html>
