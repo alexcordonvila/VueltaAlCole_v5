@@ -1,5 +1,9 @@
 package com.ipartek.modelo.dto;
-
+/**
+ * Clase V_Producto
+ * @author Alain
+ *
+ */
 public class V_Producto extends Producto{
 	
 	private String categoria;

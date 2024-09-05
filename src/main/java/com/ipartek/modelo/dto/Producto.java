@@ -1,5 +1,9 @@
 package com.ipartek.modelo.dto;
-
+/**
+ * Clase Producto
+ * @author Alain
+ *
+ */
 public class Producto {
 	
 	
