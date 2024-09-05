@@ -3,8 +3,10 @@
 
 #extensiones de fotos
 *.jpg
-*.jpeg
 *.png
+*.gif
+*.webp
+
 
 # Log file
 *.log
