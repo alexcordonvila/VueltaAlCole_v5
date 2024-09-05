@@ -84,11 +84,6 @@
 	<footer>
 	PIE
 	</footer>
-	
-	
-	
-	
-	
-	
+patata	
 </body>
 </html>
