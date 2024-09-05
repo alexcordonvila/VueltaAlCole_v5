@@ -58,7 +58,7 @@
 						<th>Id</th>
 						<th>Nombre</th>
 						<th>Precio</th>
-						<th>Categor�a</th>
+						<th>Categorï¿½a</th>
 						<th>Opciones</th>
 					</tr>
 				</thead>
@@ -84,8 +84,10 @@
 	<footer>
 	PIE
 	</footer>
-patata	
+
+patata frita	
 Manzana
 Lechuga
+asd
 </body>
 </html>
