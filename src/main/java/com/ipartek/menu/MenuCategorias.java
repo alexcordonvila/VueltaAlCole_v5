@@ -10,7 +10,11 @@ import javax.servlet.http.HttpSession;
 
 import com.ipartek.modelo.I_Conexion;
 
-
+/**
+ * Servlet de menu categoria
+ * @author Richard
+ *
+ */
 @WebServlet("/MenuCategorias")
 public class MenuCategorias extends HttpServlet implements I_Conexion{
 	private static final long serialVersionUID = 1L;
@@ -19,6 +23,9 @@ public class MenuCategorias extends HttpServlet implements I_Conexion{
         super();
     }
 
+    /**
+     * Siempre entramos al doget.
+     */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
 		HttpSession session = request.getSession();
